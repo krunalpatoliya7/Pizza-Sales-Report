@@ -46,6 +46,11 @@ All KPIs were first calculated using SQL queries and then validated inside Power
 
 This project strengthened my ability to transform raw data into actionable insights using SQL and Power BI.
 
+**Snap of Dashboard**
+Main Dashboard(https://github.com/krunalpatoliya7/Pizza-Sales-Report/blob/main/Main%20Ddashboard.png)
+Secondary Dashboard (https://github.com/krunalpatoliya7/Pizza-Sales-Report/blob/main/Second%20dashboard.png)
+
+
 **Feedback is welcome! 🚀**
 
 #SQL #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #MSSQL #DataPortfolio #AnalyticsProject
