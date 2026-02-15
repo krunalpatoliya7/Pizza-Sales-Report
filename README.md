@@ -48,7 +48,7 @@ This project strengthened my ability to transform raw data into actionable insig
 
 **Snap of Dashboard**
 Main Dashboard 
-![Dashboard Preview].(https://github.com/krunalpatoliya7/Pizza-Sales-Report/blob/main/Main%20Ddashboard.png)
+![Dashboard Preview].(https://github.com/krunalpatoliya7/Pizza-Sales-Report/blob/main/Main%20Ddashboard.png).
 
 Secondary Dashboard (https://github.com/krunalpatoliya7/Pizza-Sales-Report/blob/main/Second%20dashboard.png)
 
