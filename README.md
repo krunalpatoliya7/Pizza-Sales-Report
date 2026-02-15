@@ -1,30 +1,51 @@
-# Pizza Sales Analytics Dashboard
+# 🚀 End-to-End SQL + Power BI Project | Pizza Sales Analytics Dashboard
 
-## Project Description
-The Pizza Sales Analytics Dashboard is a data visualization tool that provides insights into pizza sales performance over time. This dashboard supports data-driven decision-making for pizza shop owners and managers, enabling them to optimize sales strategies and improve service efficiency.
+I recently completed an end-to-end Data Analytics project where I analyzed pizza sales data using MSSQL and Power BI to uncover key business insights.
 
-## Project Objectives
-- **Analyze Sales Trends:** Understand monthly and weekly sales patterns, peak sales periods, and seasonal variations.
-- **Customer Insights:** Identify customer demographics and preferences to tailor marketing strategies.
-- **Product Performance:** Evaluate the sales performance of individual pizza varieties and toppings.
+## 🔎 Project Objective
+To analyze sales performance, customer ordering patterns, and product performance to support better business decisions.
 
-## Tools Used
-- **Data Source:** CSV data files from pizza sales records.
-- **Data Visualization:** Tableau for creating interactive dashboards and visual reports.
-- **Programming:** Python for data cleaning and processing using Pandas and NumPy.
+## 🛠 Tools Used
+- **Microsoft SQL Server** - Data extraction & KPI validation
+- **Power BI** - Data modeling & dashboarding
+- **Power Query** - Data cleaning & transformation
+- **Excel** - Initial data handling
 
-## Key KPIs
-- **Total Sales Revenue:** Overall revenue generated from pizza sales.
-- **Average Order Value (AOV):** The average revenue per transaction.
-- **Sales Growth Rate:** Percentage increase in sales over defined periods.
-- **Customer Retention Rate:** Proportion of repeat customers.
+## 📊 Key KPIs Developed
+- ✔ **Total Revenue:** $817,860
+- ✔ **Total Orders:** 21,350
+- ✔ **Total Pizzas Sold:** 49,574
+- ✔ **Average Order Value:** $38.31
+- ✔ **Avg Pizzas per Order:** 2.32
 
-## Dashboard Highlights
-- Interactive filters allowing users to drill down into specifics based on city, pizza type, and order date.
-- Visualizations showcasing sales distribution across various demographics.
-- Trend analyses presented through line charts depicting month-over-month changes.
+All KPIs were first calculated using SQL queries and then validated inside Power BI to ensure data accuracy.
 
-## Learnings
-- **Data-Driven Insights:** Gained a deeper understanding of the significance of data analytics in enhancing business operations.
-- **Technical Skills:** Further developed skills in data processing and visualization tools, which are crucial in supporting business intelligence. 
-- **Customer Behavior:** Enhanced ability to interpret customer behavior patterns and optimize marketing campaigns accordingly.
+## 📈 Dashboard Highlights
+
+### 📌 Sales Trends
+- Orders are highest on weekends (Friday & Saturday evenings)
+- Peak months: January & July
+- Clear daily and monthly ordering patterns identified
+
+### 📌 Category & Size Insights
+- Classic category contributes the highest revenue
+- Large size pizzas generate the highest share of sales
+
+### 📌 Performance Analysis (Page 2)
+- Top 5 & Bottom 5 pizzas identified by:
+  - Revenue
+  - Quantity Sold
+  - Total Orders
+- This helps identify strong performers and underperforming products for potential optimization.
+
+## 🧠 What I Learned
+- Writing optimized SQL queries (CTEs, aggregations, subqueries)
+- KPI validation using SQL before visualization
+- Data modeling and DAX measure creation in Power BI
+- Designing clean, interactive, multi-page dashboards
+
+This project strengthened my ability to transform raw data into actionable insights using SQL and Power BI.
+
+**Feedback is welcome! 🚀**
+
+#SQL #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #MSSQL #DataPortfolio #AnalyticsProject
